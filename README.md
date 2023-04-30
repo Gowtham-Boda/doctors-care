@@ -4,7 +4,7 @@ The Website Link: doctorscare.ccbp.tech
 
 
 
-Developed a responsive website for DoctorsCare where the user can see his health conditions,doctor's appointments,daily health tips for good health etc.
+Developed a responsive website for DoctorsCare where the user can see his health conditions,booking doctor's appointments,daily health tips for good health etc.
 
 
 
