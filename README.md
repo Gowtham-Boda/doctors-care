@@ -15,7 +15,7 @@ The main concept for this website is to help the old age people(65+) to solve th
 ->Designed page using HTML,Structure elements,footer elements by using different bootstrap components to show different sections in the website.
 
 
-->Used css Flexbox layouts and Implemented responsiveness by using bootstrap grid systems etc.
+->Used css Flexbox layouts and Implemented responsiveness by using bootstrap grid systems and many more etc.
 
 
 
